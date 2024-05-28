@@ -1,5 +1,5 @@
 {
-  "show_uid": true,
+  "wss": "ws.albert.lol",
   "display_name": "albert",
   "bio": "hellow",
   "platforms": [
