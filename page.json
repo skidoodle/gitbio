@@ -1,5 +1,4 @@
 {
-  "wss": "ws.albert.lol",
   "display_name": "albert",
   "bio": "hellow",
   "platforms": [
@@ -11,5 +10,8 @@
     "albert.lol",
     "spotify-ws",
     "erettsegi-browser"
-  ]
+  ],
+  "theme": "dark",
+  "background_color": "#8040ee",
+  "show_views": true
 }
