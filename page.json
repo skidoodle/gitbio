@@ -13,5 +13,6 @@
   ],
   "theme": "dark",
   "background_color": "#8040ee",
-  "show_views": true
+  "show_views": true,
+  "spotify_ws": "wss://ws.albert.lol"
 }
